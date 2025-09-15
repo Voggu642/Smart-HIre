@@ -1,0 +1,104 @@
+[
+  {
+    "id": "J001",
+    "title": "Software Engineer",
+    "description": "Build backend services and APIs; collaborate with cross-functional teams; write clean, testable code.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "REST",
+      "SQL",
+      "Git"
+    ],
+    "keywords": [
+      "APIs",
+      "unit testing",
+      "scalability"
+    ]
+  },
+  {
+    "id": "J002",
+    "title": "Data Scientist",
+    "description": "Analyze data, build models, communicate insights; deploy ML pipelines.",
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Scikit-Learn",
+      "ML"
+    ],
+    "keywords": [
+      "EDA",
+      "feature engineering",
+      "A/B testing"
+    ]
+  },
+  {
+    "id": "J003",
+    "title": "Frontend Developer",
+    "description": "Develop responsive UIs, optimize performance, ensure accessibility.",
+    "skills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS",
+      "Webpack"
+    ],
+    "keywords": [
+      "UI",
+      "UX",
+      "accessibility",
+      "performance"
+    ]
+  },
+  {
+    "id": "J004",
+    "title": "Backend Developer",
+    "description": "Design microservices, manage databases, ensure reliability.",
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Docker",
+      "Kubernetes"
+    ],
+    "keywords": [
+      "microservices",
+      "CI/CD",
+      "cloud"
+    ]
+  },
+  {
+    "id": "J005",
+    "title": "ML Engineer",
+    "description": "Deploy and monitor ML models in production; MLOps best practices.",
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Docker",
+      "AWS"
+    ],
+    "keywords": [
+      "MLOps",
+      "model serving",
+      "monitoring"
+    ]
+  },
+  {
+    "id": "J006",
+    "title": "HR Recruiter",
+    "description": "Source candidates, manage interviews, coordinate hiring.",
+    "skills": [
+      "ATS",
+      "Sourcing",
+      "Communication",
+      "Negotiation"
+    ],
+    "keywords": [
+      "stakeholder management",
+      "screening",
+      "onboarding"
+    ]
+  }
+]

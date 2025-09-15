@@ -1,0 +1,70 @@
+{
+  "python": [
+    "py",
+    "python3"
+  ],
+  "fastapi": [
+    "fast api"
+  ],
+  "rest": [
+    "restful",
+    "rest api",
+    "api"
+  ],
+  "sql": [
+    "mysql",
+    "postgresql",
+    "postgres"
+  ],
+  "git": [
+    "github",
+    "gitlab"
+  ],
+  "pandas": [
+    "pd"
+  ],
+  "numpy": [
+    "np"
+  ],
+  "scikit-learn": [
+    "sklearn",
+    "scikit learn"
+  ],
+  "ml": [
+    "machine learning"
+  ],
+  "javascript": [
+    "js"
+  ],
+  "react": [
+    "reactjs"
+  ],
+  "html": [],
+  "css": [],
+  "webpack": [],
+  "node.js": [
+    "node",
+    "nodejs"
+  ],
+  "express": [],
+  "mongodb": [
+    "mongo"
+  ],
+  "docker": [],
+  "kubernetes": [
+    "k8s"
+  ],
+  "tensorflow": [
+    "tf"
+  ],
+  "pytorch": [],
+  "aws": [
+    "amazon web services"
+  ],
+  "ats": [
+    "applicant tracking system"
+  ],
+  "sourcing": [],
+  "communication": [],
+  "negotiation": []
+}
